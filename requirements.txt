@@ -1,0 +1,7 @@
+openai
+streamlit
+python-dotenv
+pydantic
+typing_extensions
+langgraph
+requests
